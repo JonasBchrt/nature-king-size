@@ -13,4 +13,4 @@ We have experts in fields you didn’t know existed, and at least one person who
 
 We believe in teamwork, telepathy, and the power of snacks. Our motto? “If you can’t find the answer, invent a new question.” Join us as we boldly go where no team has gone before—usually to the break room.
 
-![A group of people laughing around a table with pizza](https://images.unsplash.com/photo-1515168833906-d2a3b82b3029?auto=format&fit=crop&w=600&q=80)
+<!-- ![A group of people laughing around a table with pizza](https://images.unsplash.com/photo-1515168833906-d2a3b82b3029?auto=format&fit=crop&w=600&q=80) -->
