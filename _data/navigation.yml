@@ -7,3 +7,5 @@ main:
     url: /team/
   - title: "Press"
     url: /press/
+  # - title: "Posts"
+  #   url: /posts/

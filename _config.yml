@@ -87,19 +87,25 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-# Static site defaults: show a page with text and an image, no posts or author info
 defaults:
+  # _posts
   - scope:
       path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
       type: pages
     values:
-      layout: page
-      author_profile: false
-      show_date: false
-      comments: false
-      share: false
-      related: false
-      sidebar: false
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
