@@ -75,7 +75,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-footer:
+header:
+  image: https://images.unsplash.com/photo-1506744038136-46273834b3fb
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/1506744038136-46273834b3fb)"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
